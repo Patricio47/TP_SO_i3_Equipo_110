@@ -1,0 +1,4 @@
+Name AMD Ryzen 7 3700X 8-Core Processor                                 
+NumberOfCores  8
+NumberOfLogicalProcessors  16
+             
