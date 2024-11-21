@@ -1,0 +1,33 @@
+Nombre: Patricio
+Apellido: Leiva
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Radmin VPN:
+
+   Sufijo DNS específico para la conexión. . :
+   Dirección IPv6 . . . . . . . . . . : fdfd::1a80:14df
+   Vínculo: dirección IPv6 local. . . : fe80::b721:a97c:7f3a:8647%11
+   Dirección IPv4. . . . . . . . . . . . . . : 26.128.20.223
+   Máscara de subred . . . . . . . . . . . . : 255.0.0.0
+   Puerta de enlace predeterminada . . . . . : 26.0.0.1
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::1229:17f3:e72e:7a36%9
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de Ethernet INTERNET QUE SE ROMPE SIEMPRE:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::2fd7:ac5b:e3ef:a0e1%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.100
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Hora: 11:20
+
