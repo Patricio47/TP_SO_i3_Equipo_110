@@ -31,3 +31,24 @@ Adaptador de Ethernet INTERNET QUE SE ROMPE SIEMPRE:
 
 Hora: 11:20
 
+
+
+
+-------------------
+
+Nombre: Leandro
+Apellido: Laime
+
+wlan0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 192.168.1.43  netmask 255.255.255.0  broadcast 192.168.1.255
+        inet6 2802:8010:2174:e100:ea85:91c:add9:bef5  prefixlen 64  scopeid 0x0<global>
+        inet6 fe80::aee0:10ff:feb7:b096  prefixlen 64  scopeid 0x20<link>
+        inet6 2802:8010:2174:e100:aee0:10ff:feb7:b096  prefixlen 64  scopeid 0x0<global>
+        ether ac:e0:10:b7:b0:96  txqueuelen 1000  (Ethernet)
+        RX packets 1502399  bytes 930829479 (887.7 MiB)
+        RX errors 0  dropped 131  overruns 0  frame 0
+        TX packets 439380  bytes 132765271 (126.6 MiB)
+        TX errors 0  dropped 5 overruns 0  carrier 0  collisions 0
+
+Hora: 11:26
+
