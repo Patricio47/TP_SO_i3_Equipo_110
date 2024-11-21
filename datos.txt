@@ -3,3 +3,8 @@ Apellido: Laime
 Ip: 192.168.1.43
 Hora : "10:20"
 
+Nombre: Nicolas
+Apellido: Pais
+IP: 2800:40:33:10c2:8931:e457:90a8:3e4a
+Hora: 10:37
+
